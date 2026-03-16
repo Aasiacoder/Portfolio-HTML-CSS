@@ -14,7 +14,8 @@ This repository contains a beginner-level portfolio project designed to showcase
 - **CSS**: For styling the portfolio and making it visually appealing.
 
 ## Getting Started
-GitHub Host Link: https://github.com/Aasiacoder/Portfolio-HTML-CSS.git
+GitHub Repo Link: https://github.com/Aasiacoder/Portfolio-HTML-CSS
+GitHub Host Link: https://aasiacoder.github.io/Portfolio-HTML-CSS/
 
 ## Contribution
 Contributions are welcome! Please feel free to submit a Pull Request or open an issue to suggest improvements.
