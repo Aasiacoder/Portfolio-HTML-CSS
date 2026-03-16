@@ -1,16 +1,28 @@
 # Portfolio Project Overview
 
-This portfolio showcases various projects developed using HTML and CSS, reflecting my skills and creativity in web design and development. The projects range from personal websites to interactive web applications, all demonstrating a strong understanding of modern web technologies.
+## Introduction
+This repository contains a beginner-level portfolio project designed to showcase web development skills using HTML and CSS. The goal of this project is to create a simple and visually appealing portfolio website that presents personal projects, skills, and contact information.
 
-## Features:
-- Responsive Design: Each project is designed to be responsive, adapting to various screen sizes and devices.
-- Clean and Modern UI: The projects emphasize clean layouts and modern design principles.
-- Interactive Elements: Many projects include interactive features, enhancing user engagement.
+## Features
+- **Responsive Design**: The portfolio will be designed to look good on desktop device.
+- **Project Showcase**: A section dedicated to displaying personal projects with descriptions and links.
+- **About Me**: A brief introduction about the developer and their journey in web development.
+- **Contact Form**: A functional form for visitors to get in touch.
 
-## Projects Included:
-1. **Personal Blog**: A simple blog platform to share thoughts and experiences.
-2. **Portfolio Website**: A dedicated site to showcase works and resume.
-3. **Landing Page**: An engaging landing page for a fictional product.
-4. **Interactive Quiz**: A fun quiz application to test knowledge on various topics.
+## Technologies Used
+- **HTML**: For structuring the content of the portfolio.
+- **CSS**: For styling the portfolio and making it visually appealing.
+
+## Getting Started
+GitHub Host Link: https://github.com/Aasiacoder/Portfolio-HTML-CSS.git
+
+## Contribution
+Contributions are welcome! Please feel free to submit a Pull Request or open an issue to suggest improvements.
+
+## License
+This project is open-source and available under the MIT License.
+
+## Acknowledgements
+- Thanks to the amazing resources available online that helped guide the creation of this portfolio!
 
 This repository serves as a showcase of my capabilities as a web developer, and I am constantly updating it with new projects and improvements.
